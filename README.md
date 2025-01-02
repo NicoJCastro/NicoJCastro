@@ -53,4 +53,4 @@ Continuar creciendo en el desarrollo backend, contribuyendo a proyectos innovado
 - **Correo electrónico:** [nicolasjosecastro@gmail.com](mailto:nicolasjosecastro@gmail.com)
 
 ## 📊 Mis Estadísticas de Lenguajes:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoJCastro&layout=compact&theme=dark)
