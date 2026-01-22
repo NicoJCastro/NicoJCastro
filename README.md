@@ -68,6 +68,3 @@ Seguir creciendo como **Backend Engineer**, participando en proyectos desafiante
 🔗 **LinkedIn:** https://www.linkedin.com/in/nicolas-castro-604b45231/
 
 ---
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoJCastro&layout=compact&theme=dark)
